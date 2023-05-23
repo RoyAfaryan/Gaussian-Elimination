@@ -24,8 +24,6 @@ a21 a22 ... a2n b2
 . . . .
 an1 an2 ... ann bn
 
-mathematica
-Copy code
 
 File Input:
 a11 a12 ... a1n b1
@@ -35,8 +33,6 @@ a21 a22 ... a2n b2
 . . . .
 an1 an2 ... ann bn
 
-sql
-Copy code
 
 **Note:** The number of equations specified in the program should match the number of equations in the input.
 
