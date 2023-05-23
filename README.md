@@ -18,35 +18,33 @@ This program is a Java implementation of a Gaussian elimination solver. It solve
 
 Manual Input:
 
-&emsp;&nbsp;a11 a12 ... a1n b1
+&emsp;a11 a12 ... a1n b1
 
-   a21 a22 ... a2n b2
+&emsp;a21 a22 ... a2n b2
 
-   . . . .
+&emsp;. . . .
 
-   . . . .
+&emsp;. . . .
 
-   . . . .
+&emsp;. . . .
 
-   an1 an2 ... ann bn
-
-
+&emsp;an1 an2 ... ann bn
+<br>
 
 File Input:
 
-   a11 a12 ... a1n b1
+&emsp;a11 a12 ... a1n b1
 
-   a21 a22 ... a2n b2
+&emsp;a21 a22 ... a2n b2
 
-   . . . .
+&emsp;. . . .
 
-   . . . .
+&emsp;. . . .
 
-   . . . .
+&emsp;. . . .
 
-   an1 an2 ... ann bn
-
-
+&emsp;an1 an2 ... ann bn
+<br>
 
 
 **Note:** The number of equations specified in the program should match the number of equations in the input.
