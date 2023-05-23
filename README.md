@@ -18,10 +18,15 @@ This program is a Java implementation of a Gaussian elimination solver. It solve
 
 Manual Input:
 a11 a12 ... a1n b1
+
 a21 a22 ... a2n b2
+
 . . . .
+
 . . . .
+
 . . . .
+
 an1 an2 ... ann bn
 
 
